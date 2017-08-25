@@ -915,12 +915,12 @@ body {
 @media (min-width: 768px) {
   .app-aside,
   .navbar-header {
-    width: 120px;
+    width: 140px;
   }
   .navbar-collapse,
   .app-content,
   .app-footer {
-    margin-left: 120px;
+    margin-left: 140px;
   }
   .app-aside-right {
     position: absolute;
@@ -994,7 +994,7 @@ body {
     width: 17px;
   }
   .app-aside-fixed .aside-wrap .navi-wrap > * {
-    width: 120px;
+    width: 140px;
   }
   .smart .app-aside-fixed .aside-wrap .navi-wrap {
     width: 200px;
@@ -1245,15 +1245,15 @@ html.bg {
 }
 
 .navi ul.nav li a {
-  height: 120px;
+  height: 80px;
   position: relative;
   display: block;
-  padding: 20px 19px;
+  padding: 10px 19px;
   font-weight: normal;
   text-transform: none;
   -webkit-transition: background-color 0.2s ease-in-out 0s;
           transition: background-color 0.2s ease-in-out 0s;
-          border-radius: 65px;
+          border-radius: 0px;
           /*box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.22);*/
           /*sombra opciones*/
 }
@@ -1268,11 +1268,11 @@ html.bg {
 .navi ul.nav li a > i {
   position: relative;
   float: left;
-  width: 120px;
-  margin: 10px 20px 0px -20px;
+  width: 140px;
+  margin: 0px 20px 0px -20px;
   margin-right: 5px;
   overflow: hidden;
-  line-height: 40px;
+  line-height: 35px;
   text-align: center;
 }
 

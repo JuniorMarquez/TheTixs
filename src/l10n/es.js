@@ -16,13 +16,13 @@
 "aside" : {
   "nav" : {
     "HEADER" : "Navigation",
-    "DASHBOARD" : "Home",
+    "DASHBOARD" : "Inicio",
     "ODONTOLOGOS" : "Ajustes",
-    "PRODUCTS" : "Products",
-    "VENDORS" : "Vendors",
-    "PARTNERS" : "Partners",
-    "FINANCES" : "Finances",
-    "SUPPORT" : "Support",
+    "PRODUCTS" : "Productos",
+    "VENDORS" : "Representantes",
+    "PARTNERS" : "Proveedores",
+    "FINANCES" : "Finanzas",
+    "SUPPORT" : "Soporte",
     "WIDGETS" : "Widgets",
     "components" : {
       "COMPONENTS" : "Components",
